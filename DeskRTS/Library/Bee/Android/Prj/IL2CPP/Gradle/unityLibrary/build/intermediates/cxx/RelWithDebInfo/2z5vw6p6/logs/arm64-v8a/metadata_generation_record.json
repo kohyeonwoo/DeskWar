@@ -1,0 +1,212 @@
+[
+  {
+    "level_": 0,
+    "message_": "Start JSON generation. Platform version: 31 min SDK version: arm64-v8a",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1314318316
+  },
+  {
+    "level_": 0,
+    "message_": "rebuilding JSON D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\\android_gradle_build.json due to:",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1758586664
+  },
+  {
+    "level_": 0,
+    "message_": "- expected json D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\\android_gradle_build.json file is not present, will remove stale json folder",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -932618542
+  },
+  {
+    "level_": 0,
+    "message_": "- missing previous command file D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\\metadata_generation_command.txt, will remove stale json folder",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -89908752
+  },
+  {
+    "level_": 0,
+    "message_": "- command changed from previous, will remove stale json folder",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1917686835
+  },
+  {
+    "level_": 0,
+    "message_": "- prefab configuration has changed",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1524708144
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"D:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\OpenJDK\\\\bin\\\\java\" ^\n  --class-path ^\n  \"C:\\\\Users\\\\Hyeon\\\\.gradle\\\\caches\\\\modules-2\\\\files-2.1\\\\com.google.prefab\\\\cli\\\\2.0.0\\\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\\\cli-2.0.0-all.jar\" ^\n  com.google.prefab.cli.AppKt ^\n  --build-system ^\n  cmake ^\n  --platform ^\n  android ^\n  --abi ^\n  arm64-v8a ^\n  --os-version ^\n  31 ^\n  --stl ^\n  c++_shared ^\n  --ndk-version ^\n  23 ^\n  --output ^\n  \"D:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\.utmp\\\\RelWithDebInfo\\\\2z5vw6p6\\\\prefab\\\\arm64-v8a\\\\prefab-configure\" ^\n  \"C:\\\\Users\\\\Hyeon\\\\.gradle\\\\caches\\\\8.14.3\\\\transforms\\\\ee859f10b5d1fc93fbf1463b9e6dca3f\\\\transformed\\\\jetified-games-activity-3.0.0\\\\prefab\" ^\n  \"C:\\\\Users\\\\Hyeon\\\\.gradle\\\\caches\\\\8.14.3\\\\transforms\\\\4d877610f5dc735e26b8683faaf38ce5\\\\transformed\\\\jetified-games-frame-pacing-1.10.0\\\\prefab\"\n",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 832372929
+  },
+  {
+    "level_": 0,
+    "message_": "removing stale contents from \u0027D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\u0027",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1798306906
+  },
+  {
+    "level_": 0,
+    "message_": "created folder \u0027D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\u0027",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 313537894
+  },
+  {
+    "level_": 0,
+    "message_": "executing cmake @echo off\n\"D:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\SDK\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d31\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-31\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\SDK\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\2z5vw6p6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\2z5vw6p6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\.utmp\\\\RelWithDebInfo\\\\2z5vw6p6\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\.utmp\\\\RelWithDebInfo\\\\2z5vw6p6\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DBUILD_GRADLE_DIRECTORY\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\" ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -1113040010
+  },
+  {
+    "level_": 0,
+    "message_": "@echo off\n\"D:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\SDK\\\\cmake\\\\3.22.1\\\\bin\\\\cmake.exe\" ^\n  \"-HD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\\\\src\\\\main\\\\cpp\" ^\n  \"-DCMAKE_SYSTEM_NAME\u003dAndroid\" ^\n  \"-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON\" ^\n  \"-DCMAKE_SYSTEM_VERSION\u003d31\" ^\n  \"-DANDROID_PLATFORM\u003dandroid-31\" ^\n  \"-DANDROID_ABI\u003darm64-v8a\" ^\n  \"-DCMAKE_ANDROID_ARCH_ABI\u003darm64-v8a\" ^\n  \"-DANDROID_NDK\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_ANDROID_NDK\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\" ^\n  \"-DCMAKE_TOOLCHAIN_FILE\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\NDK\\\\build\\\\cmake\\\\android.toolchain.cmake\" ^\n  \"-DCMAKE_MAKE_PROGRAM\u003dD:\\\\UnityHub\\\\UnityDefaultInstallLocation\\\\2023.2.20f1\\\\Editor\\\\Data\\\\PlaybackEngines\\\\AndroidPlayer\\\\SDK\\\\cmake\\\\3.22.1\\\\bin\\\\ninja.exe\" ^\n  \"-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\2z5vw6p6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\\\\build\\\\intermediates\\\\cxx\\\\RelWithDebInfo\\\\2z5vw6p6\\\\obj\\\\arm64-v8a\" ^\n  \"-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo\" ^\n  \"-DCMAKE_FIND_ROOT_PATH\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\.utmp\\\\RelWithDebInfo\\\\2z5vw6p6\\\\prefab\\\\arm64-v8a\\\\prefab\" ^\n  \"-BD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\.utmp\\\\RelWithDebInfo\\\\2z5vw6p6\\\\arm64-v8a\" ^\n  -GNinja ^\n  \"-DBUILD_GRADLE_DIRECTORY\u003dD:\\\\UnityProjectArea\\\\DeskWar\\\\DeskWar\\\\DeskRTS\\\\Library\\\\Bee\\\\Android\\\\Prj\\\\IL2CPP\\\\Gradle\\\\unityLibrary\" ^\n  \"-DANDROID_STL\u003dc++_shared\"\n",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 1709357109
+  },
+  {
+    "level_": 0,
+    "message_": "Exiting generation of D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\\compile_commands.json.bin normally",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -976948868
+  },
+  {
+    "level_": 0,
+    "message_": "done executing cmake",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": 2064934210
+  },
+  {
+    "level_": 0,
+    "message_": "write command file D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\arm64-v8a\\metadata_generation_command.txt",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -80084404
+  },
+  {
+    "level_": 0,
+    "message_": "JSON generation completed without problems",
+    "file_": "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\unityLibrary\\src\\main\\cpp\\CMakeLists.txt",
+    "tag_": "release|arm64-v8a",
+    "diagnosticCode_": 0,
+    "memoizedIsInitialized": 1,
+    "unknownFields": {
+      "fields": {},
+      "fieldsDescending": {}
+    },
+    "memoizedSize": -1,
+    "memoizedHashCode": -291960002
+  }
+]

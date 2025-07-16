@@ -1,0 +1,21 @@
+@echo off
+"D:\\UnityHub\\UnityDefaultInstallLocation\\2023.2.20f1\\Editor\\Data\\PlaybackEngines\\AndroidPlayer\\OpenJDK\\bin\\java" ^
+  --class-path ^
+  "C:\\Users\\Hyeon\\.gradle\\caches\\modules-2\\files-2.1\\com.google.prefab\\cli\\2.0.0\\f2702b5ca13df54e3ca92f29d6b403fb6285d8df\\cli-2.0.0-all.jar" ^
+  com.google.prefab.cli.AppKt ^
+  --build-system ^
+  cmake ^
+  --platform ^
+  android ^
+  --abi ^
+  arm64-v8a ^
+  --os-version ^
+  31 ^
+  --stl ^
+  c++_shared ^
+  --ndk-version ^
+  23 ^
+  --output ^
+  "D:\\UnityProjectArea\\DeskWar\\DeskWar\\DeskRTS\\.utmp\\RelWithDebInfo\\2z5vw6p6\\prefab\\arm64-v8a\\prefab-configure" ^
+  "C:\\Users\\Hyeon\\.gradle\\caches\\8.14.3\\transforms\\ee859f10b5d1fc93fbf1463b9e6dca3f\\transformed\\jetified-games-activity-3.0.0\\prefab" ^
+  "C:\\Users\\Hyeon\\.gradle\\caches\\8.14.3\\transforms\\4d877610f5dc735e26b8683faaf38ce5\\transformed\\jetified-games-frame-pacing-1.10.0\\prefab"

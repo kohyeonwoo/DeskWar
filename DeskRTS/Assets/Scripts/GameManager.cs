@@ -19,6 +19,6 @@ public class GameManager : MonoBehaviour
 
     public void RegistUnit(Unit units)
     {
-           allUnit.Add(units);
+          allUnit.Add(units);
     }
 }

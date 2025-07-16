@@ -4,15 +4,25 @@ using UnityEngine;
 
 public class Unit : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private void Start()
     {
-        
+        GameManager.Instance.RegistUnit(this);
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
+        if(Input.touchCount > 0)
+        {
         
+            Touch touch = Input.GetTouch(0);
+        
+            if(touch.phase == TouchPhase.Began)
+            {
+                this.transform.position = Camera.main.ScreenToWorldPoint
+                    (new Vector3(touch.position.x, touch.position.y, 5));
+            }
+
+        }
     }
+
 }
