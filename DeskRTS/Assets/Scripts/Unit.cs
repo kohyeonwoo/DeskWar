@@ -1,12 +1,18 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.AI;
 using UnityEngine;
 
 public class Unit : MonoBehaviour
 {
+
+    private NavMeshAgent agent;
+
     private void Start()
     {
         GameManager.Instance.RegistUnit(this);
+
+        agent = GetComponent<NavMeshAgent>();
     }
 
     private void Update()
@@ -18,8 +24,16 @@ public class Unit : MonoBehaviour
         
             if(touch.phase == TouchPhase.Began)
             {
-                this.transform.position = Camera.main.ScreenToWorldPoint
-                    (new Vector3(touch.position.x, touch.position.y, 5));
+
+                Ray ray = Camera.main.ScreenPointToRay(touch.position);
+
+                RaycastHit hit;
+
+                if(Physics.Raycast(ray, out hit))
+                {
+                    agent.destination = hit.point;  
+                }
+
             }
 
         }
