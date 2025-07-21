@@ -8,6 +8,8 @@ public class Unit : MonoBehaviour
 
     private NavMeshAgent agent;
 
+    public bool bChoose;
+
     private void Start()
     {
         GameManager.Instance.RegistUnit(this);
@@ -17,26 +19,31 @@ public class Unit : MonoBehaviour
 
     private void Update()
     {
-        if(Input.touchCount > 0)
+
+        if(bChoose)
         {
-        
-            Touch touch = Input.GetTouch(0);
-        
-            if(touch.phase == TouchPhase.Began)
+            if (Input.touchCount > 0)
             {
 
-                Ray ray = Camera.main.ScreenPointToRay(touch.position);
+                Touch touch = Input.GetTouch(0);
 
-                RaycastHit hit;
-
-                if(Physics.Raycast(ray, out hit))
+                if (touch.phase == TouchPhase.Began)
                 {
-                    agent.destination = hit.point;  
+
+                    Ray ray = Camera.main.ScreenPointToRay(touch.position);
+
+                    RaycastHit hit;
+
+                    if (Physics.Raycast(ray, out hit))
+                    {
+                        agent.destination = hit.point;
+                    }
+
                 }
 
             }
-
         }
+     
     }
 
 }
