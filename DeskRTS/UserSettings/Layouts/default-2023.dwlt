@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -119,7 +119,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 128
+  controlID: 132
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -350,7 +350,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Assets/Prefab
+    - Assets/Assets/Prefab/Enemy
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -360,27 +360,27 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Assets/Prefab
+  - Assets/Assets/Prefab/Enemy
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\UnityProjectArea\DeskWar\DeskWar\DeskRTS
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 29}
-    m_SelectedIDs: aa7a0000
-    m_LastClickedID: 31402
-    m_ExpandedIDs: 00000000267a0000287a00002a7a00002c7a00002e7a0000307a00008a7a00008e7d0000927d000000ca9a3bffffff7f
+    m_SelectedIDs: ca7a0000
+    m_LastClickedID: 31434
+    m_ExpandedIDs: 00000000327a0000347a0000367a0000387a00003a7a00003c7a00003e7a0000407a0000427a0000a27a000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Prefab
-      m_OriginalName: Prefab
+      m_Name: Inca Pack (Pixelated Texture)
+      m_OriginalName: Inca Pack (Pixelated Texture)
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 31402
+      m_UserData: 31782
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
       m_OriginalEventType: 0
@@ -398,7 +398,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000267a0000287a00002a7a00002c7a00002e7a0000307a0000327a0000
+    m_ExpandedIDs: 00000000327a0000347a0000367a0000387a00003a7a00003c7a00003e7a0000407a0000427a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1045,9 +1045,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: -0.11623235, y: 0.5315378, z: 1.0043781}
+    m_Target: {x: 0.0474615, y: 0.9935783, z: 2.79829}
     speed: 2
-    m_Value: {x: -0.11623235, y: 0.5315378, z: 1.0043781}
+    m_Value: {x: 0.0474615, y: 0.9935783, z: 2.79829}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1093,13 +1093,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.002223368, y: -0.9971095, z: 0.069218494, w: 0.032022156}
+    m_Target: {x: 0.0003382736, y: -0.9978135, z: 0.06626009, w: 0.0050928537}
     speed: 2
-    m_Value: {x: 0.0020156538, y: -0.99717677, z: 0.069223166, w: 0.029029982}
+    m_Value: {x: 0.00043765278, y: -0.99778074, z: 0.06625792, w: 0.006589409}
   m_Size:
     m_Target: 0.9663354
     speed: 2
-    m_Value: 0.9663354
+    m_Value: 1.8624526
   m_Ortho:
     m_Target: 0
     speed: 2
