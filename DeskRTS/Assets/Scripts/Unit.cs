@@ -8,20 +8,26 @@ public class Unit : MonoBehaviour
 
     private NavMeshAgent agent;
 
+    private Animator animator;
+
     public bool bChoose;
+
+    private bool bMove;
 
     private void Start()
     {
         GameManager.Instance.RegistUnit(this);
 
         agent = GetComponent<NavMeshAgent>();
+
+        animator = GetComponent<Animator>();
     }
 
     private void Update()
     {
 
-        if(bChoose)
-        {
+       // if(bChoose)
+       // {
             if (Input.touchCount > 0)
             {
 
@@ -37,12 +43,16 @@ public class Unit : MonoBehaviour
                     if (Physics.Raycast(ray, out hit))
                     {
                         agent.destination = hit.point;
+
+                        animator.SetBool("bMove", true);
+
+                        bMove = true;
                     }
 
                 }
 
             }
-        }
+       // }
      
     }
 
