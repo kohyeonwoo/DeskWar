@@ -10,6 +10,8 @@ public class Unit : MonoBehaviour
 
     private Animator animator;
 
+    public GameObject chooseUI;
+
     public bool bChoose;
 
     private bool bMove;
@@ -21,13 +23,19 @@ public class Unit : MonoBehaviour
         agent = GetComponent<NavMeshAgent>();
 
         animator = GetComponent<Animator>();
+
+        chooseUI.SetActive(false);
+
+        bChoose = false;
     }
 
     private void Update()
     {
 
-       // if(bChoose)
-       // {
+        if(bChoose)
+        {
+            chooseUI.SetActive(true);
+
             if (Input.touchCount > 0)
             {
 
@@ -52,7 +60,7 @@ public class Unit : MonoBehaviour
                 }
 
             }
-       // }
+        }
      
     }
 

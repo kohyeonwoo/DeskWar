@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 6150713963795549068}
   - component: {fileID: 2538756616196754572}
   m_Layer: 0
-  m_Name: GameObject
+  m_Name: ChooseUI
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -26,7 +26,7 @@ Transform:
   m_GameObject: {fileID: 6717934858328033096}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: -1.92, z: -0}
+  m_LocalPosition: {x: 0, y: -1.52, z: -0}
   m_LocalScale: {x: 13, y: 13, z: 13}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -237,6 +237,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 34a95216867cfbf4b9080a81f5296841, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  chooseUI: {fileID: 6717934858328033096}
   bChoose: 0
 --- !u!195 &3564870371475538275
 NavMeshAgent:

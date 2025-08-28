@@ -15,10 +15,17 @@ public class GameManager : MonoBehaviour
         {
             Instance = this;
         }
+
     }
 
     public void RegistUnit(Unit units)
     {
-          allUnit.Add(units);
+         allUnit.Add(units);
     }
+
+    public void ChooseUnit(int chooseIndex)
+    {
+       allUnit[chooseIndex].bChoose = true;
+    }
+
 }
