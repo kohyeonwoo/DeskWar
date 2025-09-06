@@ -9,6 +9,8 @@ public class GameManager : MonoBehaviour
 
     public List<Unit> allUnit;
 
+    public List<SpecialUnit> allSpecialUnit;
+
     private void Start()
     {
         if(Instance == null)
@@ -23,9 +25,19 @@ public class GameManager : MonoBehaviour
          allUnit.Add(units);
     }
 
+     public void RegistSpecialUnit(SpecialUnit specialUnits)
+    {
+         allSpecialUnit.Add(specialUnits);
+    }
+
     public void ChooseUnit(int chooseIndex)
     {
        allUnit[chooseIndex].bChoose = true;
+    }
+
+     public void ChooseSpecialUnit(int chooseSpecialUnitIndex)
+    {
+       allSpecialUnit[chooseSpecialUnitIndex].bChoose = true;
     }
 
 }

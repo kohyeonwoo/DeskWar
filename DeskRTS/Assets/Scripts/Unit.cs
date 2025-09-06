@@ -14,7 +14,7 @@ public class Unit : MonoBehaviour
 
     public bool bChoose;
 
-    private bool bMove;
+  //  private bool bMove;
 
     private void Start()
     {
@@ -26,7 +26,7 @@ public class Unit : MonoBehaviour
 
         chooseUI.SetActive(false);
 
-        bChoose = false;
+     //   bChoose = false;
     }
 
     private void Update()
@@ -54,7 +54,7 @@ public class Unit : MonoBehaviour
 
                         animator.SetBool("bMove", true);
 
-                        bMove = true;
+                       // bMove = true;
                     }
 
                 }
